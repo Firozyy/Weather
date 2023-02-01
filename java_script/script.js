@@ -68,8 +68,8 @@ function getdata(weather,City_name) {
           <div class='bottom-left'>
             <h1 id='temperature'>${temp}</h1>
             <h2 id='celsius'>&degC</h2>
-            <h2 id='temp-divider'>/</h2>
-            <h2 id='fahrenheit'>&degF</h2>
+          
+           
           </div>
           <div class='vertical-half-divider'></div>
           <div class='bottom-right'>
